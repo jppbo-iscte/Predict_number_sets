@@ -1,0 +1,1 @@
+The final_script file code is not ready to run, it was designed to connect to the resulting data from the previous webscraping. In case of testing, comment out the initial lines and uncomment the lines that read the Final_Data.csv file. This file was made available in the commit.
